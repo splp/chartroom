@@ -48,7 +48,7 @@ function getTemplate (titles, res) {
     })
 }
 
-function formatHtml (title, tmpl , res) {
+function formatHtml (title, tmpl , res) {¡
  var html = tmpl.replace('%', title.join("</li><li>"));
     res.writeHead(200, {"content-type":"text/html"});
     res.end(html);
