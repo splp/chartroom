@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="gb2312"?><rss version="2.0">
+<channel>
+<title>百度娱乐焦点新闻</title>
+        <image>
+        <title>news.baidu.com</title>
+        <link>http://news.baidu.com</link>
+        <url>http://img.baidu.com/img/logo-news.gif</url>
+        </image>
+<description></description>
+<link>http://news.baidu.com</link>
+<language>zh-cn</language>
+<docs></docs>
+<generator>www.baidu.com</generator>
+<ttl>5</ttl>
+<item>
+        <title><![CDATA[《锋味江湖》开机 谢霆锋拜师葛优唐嫣当老板]]></title>
+        <link><![CDATA[http://fun.youth.cn/2016/0426/4309411.shtml]]></link>
+        <pubDate><![CDATA[2016-04-26T06:17:50.000Z]]></pubDate>
+        <source><![CDATA[中国青年网]]></source>
+        <author><![CDATA[中国青年网]]></author>
+        <description><![CDATA[
+								<a target="_blank" href="http://fun.youth.cn/2016/0426/4309411.shtml"><img border="0" src="http://t1.baidu.com/it/u=http%3A%2F%2Fupload.ct.youth.cn%2F2016%2F0426%2F1461639972456.png&fm=30"></a><br>
+																4D电影《锋味江湖之决战食神》在佛山开机，剧中的三位主演谢霆锋、唐嫣、郑容和都亮相现场，引发网友热议。据说在这部电影中唐嫣饰演一个脾气不大好的小餐馆老板娘，谢霆锋拜师葛优。  此“锋味”与电视节目《十二道锋味》的唯一关联是，都会展现谢霆锋的一手好厨艺。开机仪式上，葛优透露这部电影将在贺岁...<br />
+                        								 <a href="http://news.xhby.net/system/2016/04/26/028488103.shtml" target="_blank" style="font-size:13px">《锋味》霆锋回击没空陪儿子：时间可分配</a><nobr><span style="padding-left:10px;font-size:12px;color:#666666">新华报业网</font></nobr><br>
+								                        								 <a href="http://fun.youth.cn/2016/0426/4309411.shtml" target="_blank" style="font-size:13px">《锋味江湖》开机 谢霆锋拜师葛优唐嫣当老板</a><nobr><span style="padding-left:10px;font-size:12px;color:#666666">中国青年网</font></nobr><br>
+								                        								 <a href="http://fun.youth.cn/2016/0426/4309101.shtml" target="_blank" style="font-size:13px">唐嫣“恋上”谢霆锋闯荡锋味江湖 与葛优飙戏</a><nobr><span style="padding-left:10px;font-size:12px;color:#666666">中国青年网</font></nobr><br>
+								                        								 <a href="http://edu.gmw.cn/2016-04/26/content_19855385.htm" target="_blank" style="font-size:13px">葛优终于复出了! 与谢霆锋郑容和白冰聚餐合影 </a><nobr><span style="padding-left:10px;font-size:12px;color:#666666">光明网</font></nobr><br>
+								                        								 <a href="http://ent.scol.com.cn/rmysj/201604/54497499.html" target="_blank" style="font-size:13px">《锋味》开机谢霆锋拜师葛优 唐嫣当老板</a><nobr><span style="padding-left:10px;font-size:12px;color:#666666">四川在线</font></nobr><br>
+								                        								 <a href="http://edu.gmw.cn/2016-04/26/content_19854660.htm" target="_blank" style="font-size:13px">《锋味江湖之决战食神》开机 谢霆锋葛优想为对方..</a><nobr><span style="padding-left:10px;font-size:12px;color:#666666">光明网</font></nobr><br>
+								                        					 - <a href="http://news.baidu.com/n?cmd=2&page=http%3A%2F%2Ffun.youth.cn%2F2016%2F0426%2F4309411.shtml&pn=1&clk=crel&cls=enternews&where=focuspage&class=enternews"><font color="#008000">86条相关&gt;&gt;</font></a><br>]]></description>
+</item>
+<item>
+        <title><![CDATA[车晓出席《大唐玄奘》发布会 轻装出席重情演绎]]></title>
+        <link><![CDATA[http://fun.youth.cn/2016/0426/4307883.shtml]]></link>
+        <pubDate><![CDATA[2016-04-26T06:17:50.000Z]]></pubDate>
+        <source><![CDATA[中国青年网]]></source>
+        <author><![CDATA[中国青年网]]></author>
+        <description><![CDATA[
+								<a target="_blank" href="http://fun.youth.cn/2016/0426/4307883.shtml"><img border="0" src="http://t1.baidu.com/it/u=http%3A%2F%2Fupload.ct.youth.cn%2F2016%2F0426%2F1461635251339.jpg&fm=30"></a><br>
+																历史题材巨制《大唐玄奘》于日前在京举行观众见面会，导演霍建起携主创悉数亮相，饰演玄奘母亲的车晓也出席了发布会。饰演玄奘的黄晓明现场爆料，玄奘一角比以往的压力大，但妈妈的鼎力支持给了他极大的鼓励，在片中饰演玄奘母亲的车晓也在现场用一个大大的拥抱给黄晓明点赞。  车晓发言  车晓  据了解，...<br />
+                        								 <a href="http://fun.youth.cn/2016/0426/4307883.shtml" target="_blank" style="font-size:13px">车晓出席《大唐玄奘》发布会 轻装出席重情演绎</a><nobr><span style="padding-left:10px;font-size:12px;color:#666666">中国青年网</font></nobr><br>
+								                        								 <a href="http://culture.gmw.cn/newspaper/2016-04/26/content_112016035.htm" target="_blank" style="font-size:13px">霍建起与群星共叙西行路上“缘” </a><nobr><span style="padding-left:10px;font-size:12px;color:#666666">光明网</font></nobr><br>
+								                        								 <a href="http://news.gmw.cn/newspaper/2016-04/26/content_112013675.htm" target="_blank" style="font-size:13px">《大唐玄奘》举行首映式 </a><nobr><span style="padding-left:10px;font-size:12px;color:#666666">光明网</font></nobr><br>
+								                        								 <a href="http://news.xinhuanet.com/local/2016-04/26/c_128931918.htm" target="_blank" style="font-size:13px">《大唐玄奘》全球首映 </a><nobr><span style="padding-left:10px;font-size:12px;color:#666666">新华网</font></nobr><br>
+								                        								 <a href="http://cnews.chinadaily.com.cn/2016-04/26/content_24844198.htm" target="_blank" style="font-size:13px">黄晓明经历九九八十一难 成功也是一种修行 </a><nobr><span style="padding-left:10px;font-size:12px;color:#666666">中国日报网</font></nobr><br>
+								                        								 <a href="http://ent.southcn.com/8/2016-04/26/content_146620660.htm" target="_blank" style="font-size:13px">出演《玄奘》 黄晓明：我有义务挺起国人的脊梁 </a><nobr><span style="padding-left:10px;font-size:12px;color:#666666">南方网</font></nobr><br>
+								                        					 - <a href="http://news.baidu.com/n?cmd=2&page=http%3A%2F%2Ffun.youth.cn%2F2016%2F0426%2F4307883.shtml&pn=1&clk=crel&cls=enternews&where=focuspage&class=enternews"><font color="#008000">137条相关&gt;&gt;</font></a><br>]]></description>
+</item>
+<item>
+        <title><![CDATA[盛一伦与粉丝互动 细心照顾每一位粉丝变暖男 ]]></title>
+        <link><![CDATA[http://cnews.chinadaily.com.cn/2016-04/26/content_24854376.htm]]></link>
+        <pubDate><![CDATA[2016-04-26T06:17:50.000Z]]></pubDate>
+        <source><![CDATA[中国日报网]]></source>
+        <author><![CDATA[中国日报网]]></author>
+        <description><![CDATA[
+								<a target="_blank" href="http://cnews.chinadaily.com.cn/2016-04/26/content_24854376.htm"><img border="0" src="http://t1.baidu.com/it/u=http%3A%2F%2Fcnews.chinadaily.com.cn%2Fimg%2Fattachement%2Fjpg%2Fsite1%2F20160426%2Fd8cb8a14fbeb188921ec0e.jpg&fm=30"></a><br>
+																导读：近日，盛一伦出席某活动直播发布会，刚刚结束《非凡搭档》拍摄从欧洲赶回来的盛一伦表示：“目前正在拍摄一部古装剧，接下来还有现代剧及电影的拍摄，行程排至年底。”   近日，盛一伦出席某活动直播发布会，刚刚结束《非凡搭档》拍摄从欧洲赶回来的盛一伦表示：“目前正在拍摄一部古装剧，接下来还有...<br />
+                        								 - <a href="http://cnews.chinadaily.com.cn/2016-04/26/content_24854376.htm" target="_blank"><font color="#008000">中国日报网</font></a> 
+								                        								 - <a href="http://fun.youth.cn/2016/0426/4307553.shtml" target="_blank"><font color="#008000">中国青年网</font></a> 
+								                        					 - <a href="http://news.baidu.com/n?cmd=2&page=http%3A%2F%2Fcnews.chinadaily.com.cn%2F2016-04%2F26%2Fcontent_24854376.htm&pn=1&clk=crel&cls=enternews&where=focuspage&class=enternews"><font color="#008000">17条相关&gt;&gt;</font></a><br>]]></description>
+</item>
+<item>
+        <title><![CDATA[这才是王菲与谢霆锋和好的真正原因(1)]]></title>
+        <link><![CDATA[http://ent.china.com/star/news/11052670/20160426/22523450.html]]></link>
+        <pubDate><![CDATA[2016-04-26T06:17:50.000Z]]></pubDate>
+        <source><![CDATA[中华网]]></source>
+        <author><![CDATA[中华网]]></author>
+        <description><![CDATA[
+								<a target="_blank" href="http://ent.china.com/star/news/11052670/20160426/22523450.html"><img border="0" src="http://t1.baidu.com/it/u=http%3A%2F%2Fimg01.imgcdc.com%2Ffun%2Fzh_cn%2Fstar%2Fnews%2F11052670%2F20160426%2F2016042611442945541800.jpg&fm=30"></a><br>
+																日前谢霆锋录制《蜜蜂少女队》不时低头蜜笑似乎为什么事情高兴，媒体猜测应该是求婚成功难掩心中喜悦，对于谢霆锋的婚事让多少粉丝的心为之牵动，谢霆锋与王菲曾有过一段恋情兜兜转转后十年周再次复合随后多次曝出结婚、女方怀孕的传闻，然后是这几天一段关于谢霆锋发飙的视频更是让谢霆锋成为粉丝猜测的证据，...<br />
+                        								 - <a href="http://ent.china.com/star/news/11052670/20160426/22523450.html" target="_blank"><font color="#008000">中华网</font></a> 
+								                        								 - <a href="http://www.chinanews.com/yl/2016/04-26/7848186.shtml" target="_blank"><font color="#008000">中国新闻网</font></a> 
+								                        					 - <a href="http://news.baidu.com/n?cmd=2&page=http%3A%2F%2Fent.china.com%2Fstar%2Fnews%2F11052670%2F20160426%2F22523450.html&pn=1&clk=crel&cls=enternews&where=focuspage&class=enternews"><font color="#008000">15条相关&gt;&gt;</font></a><br>]]></description>
+</item>
+<item>
+        <title><![CDATA[“总攻”刘涛为蒋欣找对象发愁：她真的好难找 ]]></title>
+        <link><![CDATA[http://cnews.chinadaily.com.cn/2016-04/26/content_24843642.htm]]></link>
+        <pubDate><![CDATA[2016-04-26T06:17:50.000Z]]></pubDate>
+        <source><![CDATA[中国日报网]]></source>
+        <author><![CDATA[中国日报网]]></author>
+        <description><![CDATA[
+								<a target="_blank" href="http://cnews.chinadaily.com.cn/2016-04/26/content_24843642.htm"><img border="0" src="http://t1.baidu.com/it/u=http%3A%2F%2Fupload.ct.youth.cn%2F2016%2F0426%2F1461627698409.jpg&fm=30"></a><br>
+																刘涛汪涵亮相北京车展 为汽车品牌站台  刘涛汪涵亮相北京车展 为汽车品牌站台  刘涛汪涵亮相北京车展 为汽车品牌站台  刘涛汪涵亮相北京车展 为汽车品牌站台  刘涛汪涵亮相北京车展 为汽车品牌站台  刘涛汪涵亮相北京车展 为汽车品牌站台  刘涛汪涵亮相北京车展 为汽车品牌站台  刘涛汪涵...<br />
+                        								 - <a href="http://gx.people.com.cn/n2/2016/0426/c179486-28221020.html" target="_blank"><font color="#008000">人民网广西视窗</font></a> 
+								                        								 - <a href="http://cnews.chinadaily.com.cn/2016-04/26/content_24843642.htm" target="_blank"><font color="#008000">中国日报网</font></a> 
+								                        					 - <a href="http://news.baidu.com/n?cmd=2&page=http%3A%2F%2Fcnews.chinadaily.com.cn%2F2016-04%2F26%2Fcontent_24843642.htm&pn=1&clk=crel&cls=enternews&where=focuspage&class=enternews"><font color="#008000">15条相关&gt;&gt;</font></a><br>]]></description>
+</item>
+<item>
+        <title><![CDATA[跑男网络播放总量破5亿 网友感叹“游戏如人生” ]]></title>
+        <link><![CDATA[http://www.chinanews.com/yl/2016/04-26/7848103.shtml]]></link>
+        <pubDate><![CDATA[2016-04-26T06:17:50.000Z]]></pubDate>
+        <source><![CDATA[中国新闻网]]></source>
+        <author><![CDATA[中国新闻网]]></author>
+        <description><![CDATA[
+																华西都市报讯（记者 杨帆）上周播出的《奔跑吧兄弟》，“跑男团”集体变身中世纪“骑士”，与Angelababy、张钧甯、林允、马思纯、何穗、贾玲六位公主两两搭档，上演了一场“世界公主争霸战”。童话故事里美丽的公主们一夜之间被带走了各自的服装配饰，以睡衣素颜亮相，需要经过“泥潭大战”、“愤怒...<br />
+                        								 - <a href="http://www.chinanews.com/yl/2016/04-26/7848103.shtml" target="_blank"><font color="#008000">中国新闻网</font></a> 
+								                        								 - <a href="http://media.people.com.cn/n1/2016/0426/c40606-28303971.html" target="_blank"><font color="#008000">人民网</font></a> 
+								                        								 - <a href="http://ent.china.com/gundong/11015422/20160425/22514797.html" target="_blank"><font color="#008000">中华网</font></a> 
+								                        								 - <a href="http://www.zjstv.com/news/zjnews/201604/327426.html" target="_blank"><font color="#008000">蓝天下</font></a> 
+								                        								 - <a href="http://fun.hsw.cn/system/2016/0425/56803.shtml" target="_blank"><font color="#008000">华商网</font></a> 
+								                        								 - <a href="http://ent.cri.cn/20160425/a6c939f1-2dbe-8ff9-7458-5c249aa96796.html" target="_blank"><font color="#008000">国际在线</font></a> 
+								                        					 - <a href="http://news.baidu.com/n?cmd=2&page=http%3A%2F%2Fwww.chinanews.com%2Fyl%2F2016%2F04-26%2F7848103.shtml&pn=1&clk=crel&cls=enternews&where=focuspage&class=enternews"><font color="#008000">82条相关&gt;&gt;</font></a><br>]]></description>
+</item>
+<item>
+        <title><![CDATA[网大《女主与狗》成为社交软件网络路牌 ]]></title>
+        <link><![CDATA[http://ent.chinadaily.com.cn/2016-04/26/content_24852284.htm]]></link>
+        <pubDate><![CDATA[2016-04-26T06:17:50.000Z]]></pubDate>
+        <source><![CDATA[中国日报网]]></source>
+        <author><![CDATA[中国日报网]]></author>
+        <description><![CDATA[
+								<a target="_blank" href="http://ent.chinadaily.com.cn/2016-04/26/content_24852284.htm"><img border="0" src="http://t1.baidu.com/it/u=http%3A%2F%2Fent.chinadaily.com.cn%2Fimg%2Fattachement%2Fjpg%2Fsite1%2F20160426%2F64006a47a449188917c022.jpg&fm=30"></a><br>
+																网络大电影《女主与狗》同名社交软件APP同步上线。开创全新资本运营模式，网络大电影变身为自身具有盈利模式的广告载体。  《女主与狗》首创神爱时尚喜剧类型，于4月27日全网上线。《女主与狗》讲述男神哮天犬下凡变成人形宠物狗赢得女主真爱的故事。《女主与狗》这部奇幻神仙爱情时尚喜剧题材的网络大...<br />
+                        								 - <a href="http://ent.chinadaily.com.cn/2016-04/26/content_24852284.htm" target="_blank"><font color="#008000">中国日报网</font></a> 
+								                        								 - <a href="http://fun.youth.cn/2016/0425/4305405.shtml" target="_blank"><font color="#008000">中国青年网</font></a> 
+								                        								 - <a href="http://fun.youth.cn/2016/0425/4302723.shtml" target="_blank"><font color="#008000">中国青年网</font></a> 
+								                        								 - <a href="http://cnews.chinadaily.com.cn/2016-04/24/content_24795195.htm" target="_blank"><font color="#008000">中国日报网</font></a> 
+								                        					 - <a href="http://news.baidu.com/n?cmd=2&page=http%3A%2F%2Fent.chinadaily.com.cn%2F2016-04%2F26%2Fcontent_24852284.htm&pn=1&clk=crel&cls=enternews&where=focuspage&class=enternews"><font color="#008000">19条相关&gt;&gt;</font></a><br>]]></description>
+</item>
+<item>
+        <title><![CDATA[对艺术执着对生活新潮 梅葆玖的洒脱人生]]></title>
+        <link><![CDATA[http://fun.youth.cn/2016/0426/4309829.shtml]]></link>
+        <pubDate><![CDATA[2016-04-26T06:17:50.000Z]]></pubDate>
+        <source><![CDATA[中国青年网]]></source>
+        <author><![CDATA[中国青年网]]></author>
+        <description><![CDATA[
+								<a target="_blank" href="http://fun.youth.cn/2016/0426/4309829.shtml"><img border="0" src="http://t1.baidu.com/it/u=http%3A%2F%2Fupload.ct.youth.cn%2F2016%2F0426%2F1461641740679.jpg&fm=30"></a><br>
+																新浪娱乐讯 著名京剧大师梅葆玖于25日上午11时在京病逝。  新浪娱乐讯 著名京剧大师梅葆玖于25日上午11时在京病逝。  新浪娱乐讯 著名京剧大师梅葆玖于25日上午11时在京病逝。  新浪娱乐讯 著名京剧大师梅葆玖于25日上午11时在京病逝。  新浪娱乐讯 著名京剧大师梅葆玖于25日上...<br />
+                        								 - <a href="http://culture.gmw.cn/newspaper/2016-04/26/content_112028403.htm" target="_blank"><font color="#008000">光明网</font></a> 
+								                        								 - <a href="http://fun.youth.cn/2016/0426/4310139.shtml" target="_blank"><font color="#008000">中国青年网</font></a> 
+								                        								 - <a href="http://fun.youth.cn/2016/0426/4310095.shtml" target="_blank"><font color="#008000">中国青年网</font></a> 
+								                        								 - <a href="http://fun.youth.cn/2016/0426/4309829.shtml" target="_blank"><font color="#008000">中国青年网</font></a> 
+								                        								 - <a href="http://news.xhby.net/system/2016/04/26/028487950.shtml" target="_blank"><font color="#008000">新华报业网</font></a> 
+								                        								 - <a href="http://edu.gmw.cn/newspaper/2016-04/26/content_112024288.htm" target="_blank"><font color="#008000">光明网</font></a> 
+								                        					 - <a href="http://news.baidu.com/n?cmd=2&page=http%3A%2F%2Ffun.youth.cn%2F2016%2F0426%2F4309829.shtml&pn=1&clk=crel&cls=enternews&where=focuspage&class=enternews"><font color="#008000">799条相关&gt;&gt;</font></a><br>]]></description>
+</item>
+<item>
+        <title><![CDATA[姚晨11月生二胎 凌潇肃不让唐一菲受"二茬罪"]]></title>
+        <link><![CDATA[http://news.youth.cn/yl/201604/t20160426_7913959.htm]]></link>
+        <pubDate><![CDATA[2016-04-26T06:17:50.000Z]]></pubDate>
+        <source><![CDATA[中国青年网]]></source>
+        <author><![CDATA[中国青年网]]></author>
+        <description><![CDATA[
+								<a target="_blank" href="http://news.youth.cn/yl/201604/t20160426_7913959.htm"><img border="0" src="http://t1.baidu.com/it/u=http%3A%2F%2Fnews.youth.cn%2Fyl%2F201604%2FW020160426377132436245.jpg&fm=30"></a><br>
+																姚晨《梦想合伙人》发布会   凌潇肃《幸福在一起》开播发布会   人民网北京4月25日电 （艾雯） 4月24日在姚晨主演的电影《梦想合伙人》发布会上，37岁的她宣布怀上二胎：“11月就可以给小土豆添个小伙伴了！”25日恰逢凌潇肃在北京宣传新剧《幸福在一起》，问到有无生二胎计划时，他收起笑...<br />
+                        								 - <a href="http://news.youth.cn/yl/201604/t20160426_7913959.htm" target="_blank"><font color="#008000">中国青年网</font></a> 
+								                        								 - <a href="http://fun.youth.cn/2016/0426/4306815.shtml" target="_blank"><font color="#008000">中国青年网</font></a> 
+								                        								 - <a href="http://fun.youth.cn/2016/0426/4306719.shtml" target="_blank"><font color="#008000">中国青年网</font></a> 
+								                        								 - <a href="http://fun.youth.cn/2016/0425/4306153.shtml" target="_blank"><font color="#008000">中国青年网</font></a> 
+								                        								 - <a href="http://www.yangtse.com/gd/2016-04-25/850624.html" target="_blank"><font color="#008000">扬子晚报网</font></a> 
+								                        								 - <a href="http://fun.youth.cn/2016/0425/4306073.shtml" target="_blank"><font color="#008000">中国青年网</font></a> 
+								                        					 - <a href="http://news.baidu.com/n?cmd=2&page=http%3A%2F%2Fnews.youth.cn%2Fyl%2F201604%2Ft20160426_7913959.htm&pn=1&clk=crel&cls=enternews&where=focuspage&class=enternews"><font color="#008000">352条相关&gt;&gt;</font></a><br>]]></description>
+</item>
+<item>
+        <title><![CDATA[《一念向北》热播 张峻宁呆萌逗趣被赞笑点担当]]></title>
+        <link><![CDATA[http://fun.youth.cn/2016/0426/4309837.shtml]]></link>
+        <pubDate><![CDATA[2016-04-26T06:17:50.000Z]]></pubDate>
+        <source><![CDATA[中国青年网]]></source>
+        <author><![CDATA[中国青年网]]></author>
+        <description><![CDATA[
+								<a target="_blank" href="http://fun.youth.cn/2016/0426/4309837.shtml"><img border="0" src="http://t1.baidu.com/it/u=http%3A%2F%2Fupload.ct.youth.cn%2F2016%2F0426%2F1461641764925.jpg&fm=30"></a><br>
+																张峻宁海报  张峻宁饰岑杰西  张峻宁假扮盲人  张峻宁剧照  张峻宁与张俪  搜狐娱乐讯 由刘恺威、张俪、张峻宁等主演的都市情感商战剧《一念向北》日前正在中央八套黄金档热播，随着剧情的推进，该剧收视也一路看涨并成功破1。实力偶像演员张峻宁在剧中饰演腹黑软萌的富二代岑杰西，在昨日（25日...<br />
+                        								 - <a href="http://fun.youth.cn/2016/0426/4309837.shtml" target="_blank"><font color="#008000">中国青年网</font></a> 
+								                        								 - <a href="http://fun.youth.cn/2016/0426/4309095.shtml" target="_blank"><font color="#008000">中国青年网</font></a> 
+								                        								 - <a href="http://ent.ynet.com/3.1/1604/26/11231798.html" target="_blank"><font color="#008000">北青网</font></a> 
+								                        								 - <a href="http://fun.youth.cn/2016/0423/4294695.shtml" target="_blank"><font color="#008000">中国青年网</font></a> 
+								                        								 - <a href="http://ent.qianlong.com/2016/0422/558980.shtml" target="_blank"><font color="#008000">千龙</font></a> 
+								                        					 - <a href="http://news.baidu.com/n?cmd=2&page=http%3A%2F%2Ffun.youth.cn%2F2016%2F0426%2F4309837.shtml&pn=1&clk=crel&cls=enternews&where=focuspage&class=enternews"><font color="#008000">23条相关&gt;&gt;</font></a><br>]]></description>
+</item>
+<item>
+        <title><![CDATA[为什么片酬80万一天 宋小宝还只能当配角？ ]]></title>
+        <link><![CDATA[http://edu.gmw.cn/2016-04/26/content_19855022.htm]]></link>
+        <pubDate><![CDATA[2016-04-26T06:17:50.000Z]]></pubDate>
+        <source><![CDATA[光明网]]></source>
+        <author><![CDATA[光明网]]></author>
+        <description><![CDATA[
+								<a target="_blank" href="http://edu.gmw.cn/2016-04/26/content_19855022.htm"><img border="0" src="http://t1.baidu.com/it/u=http%3A%2F%2Fimgedu.gmw.cn%2Fattachement%2Fjpg%2Fsite2%2F20160426%2Fd8cb8a4d09f71889029a51.jpg&fm=30"></a><br>
+																宋小宝   湖南卫视将播的《全员加速中2》里面有宋小宝。东方卫视的《极限挑战2》第二期也有宋小宝。四川卫视正在筹备的《咱们穿越吧2》，继续有宋小宝……他在综艺圈爆红的程度，简直可以用惊讶来形容。   成了抢手货，片酬当然水涨船高。最新报价显示，已达到80万元一天。别嫌贵，档期还挺紧张。能...<br />
+                        								 - <a href="http://edu.gmw.cn/2016-04/26/content_19855022.htm" target="_blank"><font color="#008000">光明网</font></a> 
+								                        					 - <a href="http://news.baidu.com/n?cmd=2&page=http%3A%2F%2Fedu.gmw.cn%2F2016-04%2F26%2Fcontent_19855022.htm&pn=1&clk=crel&cls=enternews&where=focuspage&class=enternews"><font color="#008000">11条相关&gt;&gt;</font></a><br>]]></description>
+</item>
+<item>
+        <title><![CDATA[《权力的游戏》今日回归 龙母崛起雪诺复活]]></title>
+        <link><![CDATA[http://fun.youth.cn/2016/0425/4303241.shtml]]></link>
+        <pubDate><![CDATA[2016-04-26T06:17:50.000Z]]></pubDate>
+        <source><![CDATA[中国青年网]]></source>
+        <author><![CDATA[中国青年网]]></author>
+        <description><![CDATA[
+								<a target="_blank" href="http://fun.youth.cn/2016/0425/4303241.shtml"><img border="0" src="http://t1.baidu.com/it/u=http%3A%2F%2Fupload.ct.youth.cn%2F2016%2F0425%2F1461565523797.png&fm=30"></a><br>
+																《权力的游戏》第六季终于开播了，第一集你看了么？片方已经发布了第二集预告片，可以看到布兰终于回归登场，布兰的扮演者伊萨克曾透露，在第六季中回归的布兰已经越来越能掌控他所具有的超能力，甚至还有传闻称，布兰会用他的超能力帮助在上一季结尾有可能挂掉的琼恩·雪诺复活！龙母也将崛起！  在第二集的...<br />
+                        								 - <a href="http://ent.chinadaily.com.cn/2016-04/26/content_24856061.htm" target="_blank"><font color="#008000">中国日报网</font></a> 
+								                        								 - <a href="http://ent.southcn.com/8/2016-04/26/content_146623301.htm" target="_blank"><font color="#008000">南方网</font></a> 
+								                        								 - <a href="http://fun.youth.cn/2016/0425/4303241.shtml" target="_blank"><font color="#008000">中国青年网</font></a> 
+								                        								 - <a href="http://fun.youth.cn/2016/0425/4299753.shtml" target="_blank"><font color="#008000">中国青年网</font></a> 
+								                        					 - <a href="http://news.baidu.com/n?cmd=2&page=http%3A%2F%2Ffun.youth.cn%2F2016%2F0425%2F4303241.shtml&pn=1&clk=crel&cls=enternews&where=focuspage&class=enternews"><font color="#008000">11条相关&gt;&gt;</font></a><br>]]></description>
+</item>
+<item>
+        <title><![CDATA[蒋欣坦言想出演更多角色 最想演可怜可悲的慈禧]]></title>
+        <link><![CDATA[http://fun.youth.cn/2016/0426/4310287.shtml]]></link>
+        <pubDate><![CDATA[2016-04-26T06:17:50.000Z]]></pubDate>
+        <source><![CDATA[中国青年网]]></source>
+        <author><![CDATA[中国青年网]]></author>
+        <description><![CDATA[
+								<a target="_blank" href="http://fun.youth.cn/2016/0426/4310287.shtml"><img border="0" src="http://t1.baidu.com/it/u=http%3A%2F%2Fupload.ct.youth.cn%2F2016%2F0426%2F1461647248768.jpg&fm=30"></a><br>
+																[摘要]近日，由蒋欣主演的《欢乐颂》正在热播，剧中蒋欣饰演的“樊胜美”一角获得了观众广泛好评与喜爱。与此前蒋欣在《甄嬛传》里的经典形象“华妃”相比，樊胜美霸气不减，却又多了一丝温柔。  蒋欣  蒋欣  腾讯娱乐讯 近日，由演员蒋欣主演的都市女性题材剧《欢乐颂》目前正在热播，剧中蒋欣饰演的...<br />
+                        								 - <a href="http://fun.youth.cn/2016/0426/4310287.shtml" target="_blank"><font color="#008000">中国青年网</font></a> 
+								                        								 - <a href="http://www.sznews.com/ent/content/2016-04/26/content_13175783.htm" target="_blank"><font color="#008000">深圳新闻网</font></a> 
+								                        								 - <a href="http://www.sd.xinhuanet.com/news/yule/2016-04/26/c_1118735671.htm" target="_blank"><font color="#008000">新华网山东频道</font></a> 
+								                        								 - <a href="http://ent.cri.cn/20160426/8bfe6e8b-dd78-1fc5-fd3d-b0c6985e4992.html" target="_blank"><font color="#008000">国际在线</font></a> 
+								                        								 - <a href="http://fun.youth.cn/2016/0425/4301833.shtml" target="_blank"><font color="#008000">中国青年网</font></a> 
+								                        								 - <a href="http://fun.youth.cn/2016/0425/4300809.shtml" target="_blank"><font color="#008000">中国青年网</font></a> 
+								                        					 - <a href="http://news.baidu.com/n?cmd=2&page=http%3A%2F%2Ffun.youth.cn%2F2016%2F0426%2F4310287.shtml&pn=1&clk=crel&cls=enternews&where=focuspage&class=enternews"><font color="#008000">25条相关&gt;&gt;</font></a><br>]]></description>
+</item>
+<item>
+        <title><![CDATA[我的新野蛮女友上映时间 我的新野蛮女友剧情介绍]]></title>
+        <link><![CDATA[http://fun.youth.cn/2016/0426/4306977.shtml]]></link>
+        <pubDate><![CDATA[2016-04-26T06:17:50.000Z]]></pubDate>
+        <source><![CDATA[中国青年网]]></source>
+        <author><![CDATA[中国青年网]]></author>
+        <description><![CDATA[
+								<a target="_blank" href="http://fun.youth.cn/2016/0426/4306977.shtml"><img border="0" src="http://t1.baidu.com/it/u=http%3A%2F%2Fupload.ct.youth.cn%2F2016%2F0426%2F1461632133774.PNG&fm=30"></a><br>
+																我的新野蛮女友上映时间电影《我的新野蛮女友》将于4月22日上映，该剧是一部爱情喜剧的电影，是由宋茜、车太贤、藤井美菜、崔镇浩、裴晟佑等主演。到底这部电影的剧情会是怎么样呢?现在就跟着小编来看一下吧。  我的新野蛮女友剧情介绍影片讲述了男主人公牵牛在遭逢失恋打击后，偶遇中国籍的“新”野蛮女...<br />
+                        								 - <a href="http://culture.gmw.cn/newspaper/2016-04/26/content_112029198.htm" target="_blank"><font color="#008000">光明网</font></a> 
+								                        								 - <a href="http://news.dahe.cn/2016/04-26/106768072.html" target="_blank"><font color="#008000">大河网</font></a> 
+								                        								 - <a href="http://fun.youth.cn/2016/0426/4306977.shtml" target="_blank"><font color="#008000">中国青年网</font></a> 
+								                        								 - <a href="http://fun.youth.cn/2016/0426/4306963.shtml" target="_blank"><font color="#008000">中国青年网</font></a> 
+								                        								 - <a href="http://www.changjiangtimes.com/2016/04/532602.html" target="_blank"><font color="#008000">长江商报</font></a> 
+								                        								 - <a href="http://cnews.chinadaily.com.cn/2016-04/25/content_24832354.htm" target="_blank"><font color="#008000">中国日报网</font></a> 
+								                        					 - <a href="http://news.baidu.com/n?cmd=2&page=http%3A%2F%2Ffun.youth.cn%2F2016%2F0426%2F4306977.shtml&pn=1&clk=crel&cls=enternews&where=focuspage&class=enternews"><font color="#008000">75条相关&gt;&gt;</font></a><br>]]></description>
+</item>
+<item>
+        <title><![CDATA[厨师在大腿切肉丝 网友：请勿模仿 ]]></title>
+        <link><![CDATA[http://cnews.chinadaily.com.cn/2016-04/26/content_24859402.htm]]></link>
+        <pubDate><![CDATA[2016-04-26T06:17:50.000Z]]></pubDate>
+        <source><![CDATA[中国日报网]]></source>
+        <author><![CDATA[中国日报网]]></author>
+        <description><![CDATA[
+								<a target="_blank" href="http://cnews.chinadaily.com.cn/2016-04/26/content_24859402.htm"><img border="0" src="http://t1.baidu.com/it/u=http%3A%2F%2Fwww.cnhuadong.net%2Fuploadfiles%2Fimages%2F2016-4-26%2F2016426102542jpg70584.jpg&fm=30"></a><br>
+																原题：艺高人胆大！厨师大腿上切肉丝 单腿站立令人佩服——来源：武进新闻网   摘要：真是艺高人胆大啊！竟然敢在自己的腿上切肉丝！据报道，2016年4月25日，郑州餐饮交流会健康家常菜厨王争霸赛上，厨师们精彩的厨艺表演吸引了众多观众的眼球。   真是艺高人胆大啊！竟然敢在自己的腿上切肉丝！...<br />
+                        								 - <a href="http://cnews.chinadaily.com.cn/2016-04/26/content_24859402.htm" target="_blank"><font color="#008000">中国日报网</font></a> 
+								                        								 - <a href="http://photo.gmw.cn/2016-04/26/content_19852431.htm" target="_blank"><font color="#008000">光明网</font></a> 
+								                        					 - <a href="http://news.baidu.com/n?cmd=2&page=http%3A%2F%2Fcnews.chinadaily.com.cn%2F2016-04%2F26%2Fcontent_24859402.htm&pn=1&clk=crel&cls=enternews&where=focuspage&class=enternews"><font color="#008000">24条相关&gt;&gt;</font></a><br>]]></description>
+</item>
+<item>
+        <title><![CDATA[韩星张赫确认出演《Beautiful Mind》 饰天才医生]]></title>
+        <link><![CDATA[http://news.xhby.net/system/2016/04/26/028489685.shtml]]></link>
+        <pubDate><![CDATA[2016-04-26T06:17:50.000Z]]></pubDate>
+        <source><![CDATA[新华报业网]]></source>
+        <author><![CDATA[新华报业网]]></author>
+        <description><![CDATA[
+																【环球网综合报道】据韩国娱乐新闻网站OSEN4月26日报道，韩国宣传公司YTREE公司26日表示，演员张赫确定出演KBS第二频道月火剧《Beautiful Mind》。   张赫将饰演一名神经外科医生李英伍(音)。他既有超高的手术技艺，又有敏锐的洞察力，但完全没有照顾别人的怜悯之心，抱有...<br />
+                        								 - <a href="http://news.xhby.net/system/2016/04/26/028489685.shtml" target="_blank"><font color="#008000">新华报业网</font></a> 
+								                        								 - <a href="http://ent.cri.cn/20160426/cd73e438-9895-8ccf-44ec-4c25e8dc4b7a.html" target="_blank"><font color="#008000">国际在线</font></a> 
+								                        								 - <a href="http://fun.youth.cn/2016/0426/4308155.shtml" target="_blank"><font color="#008000">中国青年网</font></a> 
+								                        					 - <a href="http://news.baidu.com/n?cmd=2&page=http%3A%2F%2Fnews.xhby.net%2Fsystem%2F2016%2F04%2F26%2F028489685.shtml&pn=1&clk=crel&cls=enternews&where=focuspage&class=enternews"><font color="#008000">4条相关&gt;&gt;</font></a><br>]]></description>
+</item>
+<item>
+        <title><![CDATA[胡歌邓超王凯霍建华 曝男星童年照看谁从小颜值逆..]]></title>
+        <link><![CDATA[http://www.sd.xinhuanet.com/news/yule/2016-04/26/c_1118735695.htm]]></link>
+        <pubDate><![CDATA[2016-04-26T06:17:50.000Z]]></pubDate>
+        <source><![CDATA[新华网山东频道]]></source>
+        <author><![CDATA[新华网山东频道]]></author>
+        <description><![CDATA[
+								<a target="_blank" href="http://www.sd.xinhuanet.com/news/yule/2016-04/26/c_1118735695.htm"><img border="0" src="http://t1.baidu.com/it/u=http%3A%2F%2Fwww.sd.xinhuanet.com%2Fnews%2Fyule%2F2016-04%2F26%2F1118735695_14616345156611n.jpg&fm=30"></a><br>
+																原标题：胡歌邓超王凯霍建华韩庚 曝男星童年照看谁从小颜值逆天   邓超在朋友圈晒出自己童年班级照片，并配文“其实气质是一种天赋，谢谢”。却不料，此贴一经发出不少网友纷纷评论称邓超遭身旁的帅哥碾压，留言说：“旁边的小男生好帅的说”、“第一眼完全看不出来你在哪”。   为此，小编深扒童年照，...<br />
+                        								 - <a href="http://www.sd.xinhuanet.com/news/yule/2016-04/26/c_1118735695.htm" target="_blank"><font color="#008000">新华网山东频道</font></a> 
+								                        					 - <a href="http://news.baidu.com/n?cmd=2&page=http%3A%2F%2Fwww.sd.xinhuanet.com%2Fnews%2Fyule%2F2016-04%2F26%2Fc_1118735695.htm&pn=1&clk=crel&cls=enternews&where=focuspage&class=enternews"><font color="#008000">6条相关&gt;&gt;</font></a><br>]]></description>
+</item>
+<item>
+        <title><![CDATA[印小天逗比助阵秦海璐 舞娘附体大秀舞技]]></title>
+        <link><![CDATA[http://fun.youth.cn/2016/0426/4309059.shtml]]></link>
+        <pubDate><![CDATA[2016-04-26T06:17:50.000Z]]></pubDate>
+        <source><![CDATA[中国青年网]]></source>
+        <author><![CDATA[中国青年网]]></author>
+        <description><![CDATA[
+								<a target="_blank" href="http://fun.youth.cn/2016/0426/4309059.shtml"><img border="0" src="http://t1.baidu.com/it/u=http%3A%2F%2Fupload.ct.youth.cn%2F2016%2F0426%2F1461639283270.jpg&fm=30"></a><br>
+																[摘要]近日，印小天助阵师妹秦海璐，参加了山东卫视《花漾梦工厂》节目。节目中，印小天不改逗比本色，与嘉宾互动诙谐幽默，点评选手妙语连珠。  印小天担纲嘉宾  印小天嗨翻全场  印小天诙谐不改逗逼本色  腾讯娱乐讯 近日，印小天助阵师妹秦海璐，参加了山东卫视《花漾梦工厂》节目。节目中，印小...<br />
+                        								 - <a href="http://fun.youth.cn/2016/0426/4309059.shtml" target="_blank"><font color="#008000">中国青年网</font></a> 
+								                        					 - <a href="http://news.baidu.com/n?cmd=2&page=http%3A%2F%2Ffun.youth.cn%2F2016%2F0426%2F4309059.shtml&pn=1&clk=crel&cls=enternews&where=focuspage&class=enternews"><font color="#008000">9条相关&gt;&gt;</font></a><br>]]></description>
+</item>
+<item>
+        <title><![CDATA[卡戴珊变性继父被指恋上好莱坞已婚影帝]]></title>
+        <link><![CDATA[http://fun.youth.cn/2016/0426/4306275.shtml]]></link>
+        <pubDate><![CDATA[2016-04-26T06:17:50.000Z]]></pubDate>
+        <source><![CDATA[中国青年网]]></source>
+        <author><![CDATA[中国青年网]]></author>
+        <description><![CDATA[
+								<a target="_blank" href="http://fun.youth.cn/2016/0426/4306275.shtml"><img border="0" src="http://t1.baidu.com/it/u=http%3A%2F%2Fupload.ct.youth.cn%2F2016%2F0426%2F1461625405298.jpg&fm=30"></a><br>
+																[摘要]美国媒体爆料她的“初恋”已经发生，对方竟然是男星约翰·特拉沃尔塔(John Travolta)。  23232  东方日报4月26日报道 美国真人秀变性女星、卡戴珊继父Caitlyn Jenner经常在其节目说自己讨厌约会，希望找到一个喜欢的男士，美国媒体爆料她的“初恋”已经发生...<br />
+                        								 - <a href="http://fun.youth.cn/2016/0426/4306275.shtml" target="_blank"><font color="#008000">中国青年网</font></a> 
+								                        					 - <a href="http://news.baidu.com/n?cmd=2&page=http%3A%2F%2Ffun.youth.cn%2F2016%2F0426%2F4306275.shtml&pn=1&clk=crel&cls=enternews&where=focuspage&class=enternews"><font color="#008000">16条相关&gt;&gt;</font></a><br>]]></description>
+</item>
+<item>
+        <title><![CDATA[“跑男”总导演岑俊义自立门户打造综艺编剧团队 ]]></title>
+        <link><![CDATA[http://cnews.chinadaily.com.cn/2016-04/26/content_24858723.htm]]></link>
+        <pubDate><![CDATA[2016-04-26T06:17:50.000Z]]></pubDate>
+        <source><![CDATA[中国日报网]]></source>
+        <author><![CDATA[中国日报网]]></author>
+        <description><![CDATA[
+								<a target="_blank" href="http://cnews.chinadaily.com.cn/2016-04/26/content_24858723.htm"><img border="0" src="http://t1.baidu.com/it/u=http%3A%2F%2Fent.people.com.cn%2FNMediaFile%2F2016%2F0426%2FMAIN201604261154000423372702715.JPG&fm=30"></a><br>
+																人民网北京4月26日电（唐平）4月25日，中韩综艺编剧论坛在京举行，这是首次中韩顶级综艺节目编剧和制作人共聚一堂，畅聊综艺节目编剧和中韩节目融合的话题。《无限挑战》韩国版总编剧文恩爱和《了不起的挑战》总导演陈涤共同探讨了韩国原版节目的中国化经历。当天，出席论坛的嘉宾包括崔大雄（韩国编剧协...<br />
+                        								 - <a href="http://cnews.chinadaily.com.cn/2016-04/26/content_24858723.htm" target="_blank"><font color="#008000">中国日报网</font></a> 
+								                        								 - <a href="http://ent.newssc.org/system/20160426/000668609.htm" target="_blank"><font color="#008000">四川新闻网</font></a> 
+								                        								 - <a href="http://www.chinanews.com/cul/2016/04-25/7847763.shtml" target="_blank"><font color="#008000">中国新闻网</font></a> 
+								                        								 - <a href="http://fun.youth.cn/2016/0426/4306171.shtml" target="_blank"><font color="#008000">中国青年网</font></a> 
+								                        					 - <a href="http://news.baidu.com/n?cmd=2&page=http%3A%2F%2Fcnews.chinadaily.com.cn%2F2016-04%2F26%2Fcontent_24858723.htm&pn=1&clk=crel&cls=enternews&where=focuspage&class=enternews"><font color="#008000">35条相关&gt;&gt;</font></a><br>]]></description>
+</item>
+</channel>
+</rss>
