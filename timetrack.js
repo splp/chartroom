@@ -58,6 +58,45 @@ exports.show = function (db, res, showarchived) {
     var archiveValue = (showarchived) ? 1 : 0;
     db.query(query,[archiveValue],function(err, rows) {
        if(err) throw err;
-        
+        html = (showarchived) ? '' : '<a href="/archived">Archived Work</a><br />';
+        html += exports.workHitlistHtml(rows);
+        html += exports.workFormHtml();
+        exports.sendHtml(res, html);
     });
+};
+exports.showArchived = function (db, res) {
+    exports.show(db, res, true);
+}
+
+exports.workHitlistHtml = function (rows) {
+    var html = '<table>';
+    for (var i in rows) {
+         html += '<tr>';
+        html += '<td>' + rows[i].date +'</td>';
+        html += '<td>' + rows[i].hours +'</td>';
+        html += '<td>' + rows[i].description + '</td>';
+        if (!rows[i].archived) {
+            html += '<td>' + exports.workArchiveForm(rows[i].id) + '</td>';
+        }
+        html += '<td>' + exports.workDeleteForm[rows[i].id] +'</td>';
+        html += '</tr>';
+    }
+    html += '</table>';
+    return html;
+}
+
+exports.workFormHtml = function() {
+    var html = '<form method="post" action="/">' +
+            '<p>Date(YYYY-MM-DD):<br /><input type="text" name="date" /></p>' +
+            '<p>Hours worked:<br /><input name="hours" type="text"></p>'+
+            '<p>Description:<br/>'+
+            '<textarea name="description"></textarea>'
+        +'</p><input type="submit" value="Add" /></form>';
+    return html;
+};
+exports.workArchiveForm = function(id) {
+    return exports.actionForm(id, '/archive', 'Archive');
+}
+exports.workDeleteForm = function(id) {
+    return exports.actionForm(id, '/delete', 'Delete');
 }
